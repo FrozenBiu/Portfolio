@@ -24,9 +24,9 @@ export default function About() {
           <div className="z-10">
             <p className="headtext">Hi, I'm Khanh Tieu</p>
             <p className="subtext">
-              Over the last 4 years, i developed my frontend and backend dev
-              skills to deliver dynamic and responsive software and web
-              applications.
+              My goal is to create modern, responsive, and user-friendly web
+              applications while continuously improving my coding skills and
+              problem-solving abilities.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-events-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo"></div>

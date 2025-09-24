@@ -1,6 +1,5 @@
 import HeroText from "../components/HeroText";
 import ParallaxBackground from "../components/ParallaxBackground";
-import { Astronaut } from "../components/Astronaut";
 import { Canvas } from "@react-three/fiber";
 
 export default function Hero() {

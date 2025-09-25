@@ -163,11 +163,11 @@ export const experiences = [
     job: "Technician",
     date: "2023 - present",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Conduct production line survey, select appropriate printer model according to customer needs.",
+      "Prepared machinery and equipment for delivery and installation at client sites.",
+      "Install, repair, maintain all types of industrial printers: inkjet printers, thermal printers, laser printers...",
+      "Provided post-sales customer support, including troubleshooting and issue resolution.",
+      "Programming devices using Siemens PLC, designing HMI; drawing schematic diagrams, power diagram of electrical cabinets.",
     ],
   },
   {
@@ -175,7 +175,7 @@ export const experiences = [
     job: "Self-Employed",
     date: "2025 - Present",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
+      "Created a personal portfolio using React, TailwindCSS, Vite, and WebAPI to showcase technical expertise.",
       "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
     ],
   },

@@ -8,11 +8,11 @@ export const myProjects = [
       "Add/Edit/Delete tasks",
       "Mark tasks as done.",
       "Data persistence by Local Storage",
-      "Responsive UI",
+      "Search tasks by content",
     ],
     href: "https://github.com/FrozenBiu/todolist",
     logo: "",
-    image: "assets/projects/accessories.jpg",
+    image: "assets/projects/todolist.png",
     tags: [
       {
         id: 1,

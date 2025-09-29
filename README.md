@@ -1,12 +1,65 @@
-# React + Vite
+# 🎨 Portfolio — Khanh Tieu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built to showcase skills, projects, experience, and contact information.  
+Live at **https://khanhtieuportfolio.vercel.app/**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo & Repository
 
-## Expanding the ESLint configuration
+- **Live site:** https://khanhtieuportfolio.vercel.app/
+- **Source code:** https://github.com/FrozenBiu/Portfolio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Home / About section to introduce yourself
+- Projects showcase with images, descriptions, and links (GitHub & live demo)
+- Skills & tools section
+- Work experience & education
+- Contact section (email, social links, or contact form if enabled)
+- Responsive design for all screen sizes
+- Smooth animations and scroll effects for better interactivity
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- (Optional) Framer Motion, Heroicons/FontAwesome
+- Deployment: Vercel
+
+---
+
+---
+
+## 🎯 Getting Started
+
+### 1. Clone repository:
+
+```bash
+git clone https://github.com/FrozenBiu/Portfolio.git
+cd Portfolio
+```
+
+### 2. Install dependencies:
+
+```bash
+npm install
+```
+
+### 3. Start development server:
+
+```bash
+npm run dev
+```
+
+## 🙏 Thanks & Contact
+
+Thanks for visiting my portfolio repo!
+Feel free to reach out for feedback, collaboration, or questions:
+
+- Email: your.email@example.com

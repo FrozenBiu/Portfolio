@@ -42,7 +42,7 @@ export default function About() {
             </p>
             <Card
               style={{ rotate: "75deg", top: "30%", left: "20%" }}
-              text="GRASP"
+              text="Responsive UI"
               containerRef={grid2Container}
             />
             <Card

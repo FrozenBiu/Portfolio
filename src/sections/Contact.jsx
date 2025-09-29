@@ -54,7 +54,10 @@ export default function Contact() {
   };
 
   return (
-    <section className="relative flex items-center c-spacing section-spacing">
+    <section
+      id="contact"
+      className="relative flex items-center c-spacing section-spacing"
+    >
       <Particles
         className="absolute inset-0 -z-50 size-full"
         quantity={100}

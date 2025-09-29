@@ -4,7 +4,10 @@ import { Canvas } from "@react-three/fiber";
 
 export default function Hero() {
   return (
-    <section className="flex items-start justify-center md:items-start md:justify-start min-h-screen overflow-hidden c-space">
+    <section
+      id="home"
+      className="flex items-start justify-center md:items-start md:justify-start min-h-screen overflow-hidden c-space"
+    >
       <HeroText />
       <ParallaxBackground />
       <figure
